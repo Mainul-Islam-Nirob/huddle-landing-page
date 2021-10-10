@@ -1,0 +1,12 @@
+@mixin padding-big {
+    padding: 5rem 7rem 0 7rem;
+}
+@mixin padding-sm {
+    padding: 2.5rem 2rem 0 2rem;
+}
+@mixin title{
+     font-family: 'Poppins',
+     sans-serif;
+     color: var(--color-very-dark-cyan);
+     font-weight: 500;
+}
